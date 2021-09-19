@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FurniturePlacement_01.unity
+    path: Assets/Scenes/FurniturePlacement_03.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: dff9ed4dded0bc245abf2b2a7c89214f, type: 2}
